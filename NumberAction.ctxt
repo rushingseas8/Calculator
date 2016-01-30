@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=NumberAction(int)
+comment1.params=a
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2
